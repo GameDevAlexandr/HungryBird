@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: f7b11810033209448bd0a97c35265c1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5886278404877301163
+    second: PinClipart.com_rollerskate-clipart_1559690_0
+  - first:
+      213: 3017341007302125735
+    second: PinClipart.com_rollerskate-clipart_1559690_1
+  - first:
+      213: -4566597180165830819
+    second: PinClipart.com_rollerskate-clipart_1559690_2
+  - first:
+      213: 3305907502555960743
+    second: PinClipart.com_rollerskate-clipart_1559690_3
+  - first:
+      213: 5847174378277730214
+    second: PinClipart.com_rollerskate-clipart_1559690_4
+  - first:
+      213: -1333196142549516293
+    second: PinClipart.com_rollerskate-clipart_1559690_5
+  - first:
+      213: -800253510589676817
+    second: PinClipart.com_rollerskate-clipart_1559690_6
+  - first:
+      213: -7148270974927759502
+    second: PinClipart.com_rollerskate-clipart_1559690_7
+  - first:
+      213: -3640949888711285976
+    second: PinClipart.com_rollerskate-clipart_1559690_8
+  - first:
+      213: 2286725824610959653
+    second: PinClipart.com_rollerskate-clipart_1559690_9
+  - first:
+      213: 2225242058686689348
+    second: PinClipart.com_rollerskate-clipart_1559690_10
+  - first:
+      213: 1536129040434089794
+    second: PinClipart.com_rollerskate-clipart_1559690_11
+  - first:
+      213: -8746383473036282737
+    second: PinClipart.com_rollerskate-clipart_1559690_12
+  - first:
+      213: 4731506858955595427
+    second: PinClipart.com_rollerskate-clipart_1559690_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 182
+        height: 88
+      alignment: 9
+      pivot: {x: 0.3248564, y: 0.56921667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b3cbb50340b150800000000000000
+      internalID: 5886278404877301163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 361
+        width: 171
+        height: 122
+      alignment: 9
+      pivot: {x: 0.33023357, y: 0.4152482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8667ad8afbfd920800000000000000
+      internalID: 3017341007302125735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 358
+        width: 146
+        height: 130
+      alignment: 9
+      pivot: {x: 0.39083508, y: 0.3896947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574aeb3f0030a0c0800000000000000
+      internalID: -4566597180165830819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 357
+        width: 146
+        height: 141
+      alignment: 9
+      pivot: {x: 0.3908353, y: 0.36332995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5952eab51f0ed20800000000000000
+      internalID: 3305907502555960743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 356
+        width: 146
+        height: 143
+      alignment: 9
+      pivot: {x: 0.3908353, y: 0.3582484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7720d0e16552150800000000000000
+      internalID: 5847174378277730214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 173
+        width: 146
+        height: 110
+      alignment: 9
+      pivot: {x: 0.38693643, y: 0.6571866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff3a630c298f7de0800000000000000
+      internalID: -1333196142549516293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 174
+        width: 146
+        height: 109
+      alignment: 9
+      pivot: {x: 0.38303763, y: 0.6527714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe20b0b0cade4e4f0800000000000000
+      internalID: -800253510589676817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 163
+        width: 146
+        height: 120
+      alignment: 9
+      pivot: {x: 0.39083508, y: 0.6878036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2771235eb6d3ccc90800000000000000
+      internalID: -7148270974927759502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 160
+        width: 146
+        height: 124
+      alignment: 9
+      pivot: {x: 0.38693655, y: 0.6885687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823ad56ed5fb87dc0800000000000000
+      internalID: -3640949888711285976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_9
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 165
+        width: 146
+        height: 118
+      alignment: 9
+      pivot: {x: 0.3908353, y: 0.6801658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52106aa95051cbf10800000000000000
+      internalID: 2286725824610959653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 180
+        height: 114
+      alignment: 9
+      pivot: {x: 0.3165858, y: 0.4443886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440774fccd5a1ee10800000000000000
+      internalID: 2225242058686689348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 17
+        width: 168
+        height: 88
+      alignment: 9
+      pivot: {x: 0.3441431, y: 0.5692167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f4c38393d615510800000000000000
+      internalID: 1536129040434089794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_12
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 146
+        height: 106
+      alignment: 9
+      pivot: {x: 0.394734, y: 0.64976627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f843354529a9e9680800000000000000
+      internalID: -8746383473036282737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinClipart.com_rollerskate-clipart_1559690_13
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 146
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3908353, y: 0.6588157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae5f5c6b60b9a140800000000000000
+      internalID: 4731506858955595427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
