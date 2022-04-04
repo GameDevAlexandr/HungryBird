@@ -14,6 +14,7 @@ public class UIScript : MonoBehaviour
     [SerializeField] private Image stranghtImage;
     [SerializeField] private SaveDataScript saveData;
     [SerializeField] private GameObject menuPanel;
+    [SerializeField] private AudioSource bonus;
     [SerializeField] private Image[] butters;
     [SerializeField] private Text[] ratingText;
     [HideInInspector] public float score = 0;
@@ -91,6 +92,7 @@ public class UIScript : MonoBehaviour
                         {
                             butterTypes[k] = 0;
                             ButterForUI(k, 0);
+                            bonus.Play();
                         }
                         stranghtImage.fillAmount += 0.3f;
                         GameData.comboCount++;
